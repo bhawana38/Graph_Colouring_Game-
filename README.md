@@ -15,4 +15,5 @@ A fun game based on graph colouring concepts.
 ![img 2](https://github.com/bhawana38/Graph_Colouring_Game-/blob/main/Screenshot%202025-05-27%20203139.png)
 ![img 3](https://github.com/bhawana38/Graph_Colouring_Game-/blob/main/Screenshot%202025-05-27%20203244.png)
 ![img 4](https://github.com/bhawana38/Graph_Colouring_Game-/blob/main/Screenshot%202025-05-27%20203458.png)
+![img 5](https://github.com/bhawana38/Graph_Colouring_Game-/blob/main/Screenshot%202025-05-27%20203743.png)
 
